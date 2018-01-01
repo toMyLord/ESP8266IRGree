@@ -4,7 +4,7 @@
  * A quick demo of how to use my IOTPwebsocket-library to auth dev and send 
  * messages.
  * 
- * I assume you know how to connect the ds1302 and SDS011.
+ * I assume you know how to connect the ds1302 and IR.
  *  * CONNECTIONS:
  *     DS1302:
  *        DS1302 RST --> GPIO0
